@@ -1,0 +1,27 @@
+PODS:
+  - Masonry (1.1.0)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+
+DEPENDENCIES:
+  - Masonry
+  - ReactiveCocoa (~> 2.5)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ReactiveCocoa
+  trunk:
+    - Masonry
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+
+PODFILE CHECKSUM: bdb78cef114857538a9e3d315d648e26166ceaef
+
+COCOAPODS: 1.8.0.beta.1

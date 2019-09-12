@@ -1,0 +1,6 @@
+module Pods_ReactiveCocosDemo {
+  umbrella header "Pods-ReactiveCocosDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
